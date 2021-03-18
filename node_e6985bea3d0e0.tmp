@@ -1,0 +1,6 @@
+let array = ['value1', 'value2', 'value3'];
+
+for(let i = 0; 1 < array.length; i++){
+console.log(array[i]);
+
+}
